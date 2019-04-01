@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CivicSense</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_cerca">Cerca</string>
+    <string name="title_activity_profilo">Profilo</string>
+</resources>

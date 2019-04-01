@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_segnalazoni"
+        android:icon="@drawable/baseline_list_24"
+        android:title="Segnalazioni" />
+
+    <item
+        android:id="@+id/navigation_cerca"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Cerca" />
+
+    <item
+        android:id="@+id/navigation_profilo"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="Profilo" />
+
+</menu>
